@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Telas_Chamados",
+    "slug": "Telas_Chamados",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
